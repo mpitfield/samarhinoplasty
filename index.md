@@ -2,59 +2,6 @@
 layout: page
 title: Home
 ---
-    
-<div class="header">
-    <div class="page-width">
-        <div class="header-menu">
-            <div class="header-menu-logo">
-                <img src="header-logo.png" width="100%">
-            </div>
-            <div class="header-menu-items">
-                <div class="header-menu-item header-menu-dropdown">
-                    <span>Our Philosophy and the Team</span>
-                    <div class="header-menu-dropdown-content">
-                        <a class="header-menu-dropdown-content-item" href="/">Our Philosophy</a>
-                        <a class="header-menu-dropdown-content-item" href="/">Meet the Team</a>
-                        <a class="header-menu-dropdown-content-item" href="/">Patient Testimonials and Videos</a>
-                    </div>
-                </div>
-                <div class="header-menu-item header-menu-dropdown">
-                    <span>Procedures</span>
-                    <div class="header-menu-dropdown-content">
-                        <a class="header-menu-dropdown-content-item" href="/">Septoplasty​</a>
-                        <a class="header-menu-dropdown-content-item" href="/">Closed Rhinoplasty​</a>
-                        <a class="header-menu-dropdown-content-item" href="/">Open Rhinoplasty​</a>
-                        <a class="header-menu-dropdown-content-item" href="/">Revision Rhinoplasty</a>
-                        <a class="header-menu-dropdown-content-item" href="/">Primary Closed Rhinoplasty</a>
-                        <a class="header-menu-dropdown-content-item" href="/">Primary Open Rhinoplasty</a>
-                        <a class="header-menu-dropdown-content-item" href="/">Functional and Aesthetic Rhinoplasty</a>
-                        <a class="header-menu-dropdown-content-item" href="/">Revision Rhinoplasty</a>
-                    </div>
-                </div>
-                <a class="header-menu-item header-menu-dropdown" href="/">
-                    <span>Gallery</span>
-                </a>
-                <div class="header-menu-item header-menu-dropdown">
-                    <span>Patient Info</span>
-                    <div class="header-menu-dropdown-content">
-                        <a class="header-menu-dropdown-content-item" href="/">The Journey</a>
-                        <a class="header-menu-dropdown-content-item" href="/">Photo Morphing</a>
-                        <a class="header-menu-dropdown-content-item" href="/">Patient Stories</a>
-                        <a class="header-menu-dropdown-content-item" href="/">FAQ</a>
-                    </div>
-                </div>
-                <div class="header-menu-item header-menu-dropdown">
-                    <span>Contact Us</span>
-                    <div class="header-menu-dropdown-content">
-                        <a class="header-menu-dropdown-content-item" href="/">Contact Form</a>
-                        <a class="header-menu-dropdown-content-item" href="/">Locations</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
 <div class="homepage">
     <div class="full-width">
         <div class="homepage-banner">
@@ -152,117 +99,79 @@ title: Home
         </div>
     </div>
     <div class="spacer-50"></div>
-    <script>
-        const nextBtn = document.querySelector('.homepage-comparison-button.next');
-        const prevBtn = document.querySelector('.homepage-comparison-button.prev');
-        const inner = document.querySelector('.homepage-comparison-pictures-inner');
-        const slideWidth = inner.offsetWidth;
-        let slides = Array.from(document.querySelectorAll('#homepage-carousel .comparison-row'));
-        const slidesLength = slides.length;
-        let firstSlideDupe = slides[0].cloneNode(true);
-        let lastSlideDupe = slides[slidesLength - 1].cloneNode(true);
-        firstSlideDupe.dataset.clone = 'last';
-        lastSlideDupe.dataset.clone = 'first';
-        inner.appendChild(firstSlideDupe);
-        inner.insertBefore(lastSlideDupe, slides[0]);
-        slides = Array.from(inner.querySelectorAll('#homepage-carousel .comparison-row'));
-        
-let currentSlide = 1;
-let isTransitioning = false;
-let transition_duration = 500;
-
-function scrollToIndex(index, smooth = true) {
-    inner.scrollTo({
-        left: index * slideWidth,
-        behavior: smooth ? 'smooth' : 'auto'
-    });
-}
-
-scrollToIndex(1, false);
-
-function nextSlide() {
-    if (isTransitioning) return;
-    isTransitioning = true;
-    currentSlide += 1;
-    if (slides[currentSlide].dataset.clone == 'last') {
-        scrollToIndex(currentSlide, true);
-        setTimeout(() => {
-            currentSlide = 1;
-            scrollToIndex(1, false);
-            isTransitioning = false;
-        }, transition_duration);
-    } else {
-        scrollToIndex(currentSlide, true);
-        setTimeout(() => {
-            isTransitioning = false;
-        }, transition_duration);
+</div>
+<script>
+    const nextBtn = document.querySelector('.homepage-comparison-button.next');
+    const prevBtn = document.querySelector('.homepage-comparison-button.prev');
+    const inner = document.querySelector('.homepage-comparison-pictures-inner');
+    const slideWidth = inner.offsetWidth;
+    let slides = Array.from(document.querySelectorAll('#homepage-carousel .comparison-row'));
+    const slidesLength = slides.length;
+    let firstSlideDupe = slides[0].cloneNode(true);
+    let lastSlideDupe = slides[slidesLength - 1].cloneNode(true);
+    firstSlideDupe.dataset.clone = 'last';
+    lastSlideDupe.dataset.clone = 'first';
+    inner.appendChild(firstSlideDupe);
+    inner.insertBefore(lastSlideDupe, slides[0]);
+    slides = Array.from(inner.querySelectorAll('#homepage-carousel .comparison-row'));
+    let currentSlide = 1;
+    let isTransitioning = false;
+    let transition_duration = 500;
+    function scrollToIndex(index, smooth = true) {
+        inner.scrollTo({
+            left: index * slideWidth,
+            behavior: smooth ? 'smooth' : 'auto'
+        });
     }
-}
-
-function prevSlide() {
-    if (isTransitioning) return;
-    isTransitioning = true;
-    currentSlide -= 1;
-    if (slides[currentSlide].dataset.clone == 'first') {
-        scrollToIndex(currentSlide, true);
-        setTimeout(() => {
-            currentSlide = slidesLength;
-            scrollToIndex(slidesLength, false);
-            isTransitioning = false;
-        }, transition_duration);
-    } else {
-        scrollToIndex(currentSlide, true);
-        setTimeout(() => {
-            isTransitioning = false;
-        }, transition_duration);
-    }
-}
-
-nextBtn.addEventListener('click', nextSlide);
-prevBtn.addEventListener('click', prevSlide);
-
-let autoScroll;
-const element = document.querySelector('#homepage-carousel');
-const observer = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-        if (entry.isIntersecting) {
-            autoScroll = setInterval(nextSlide, 4000);
+    scrollToIndex(1, false);
+    function nextSlide() {
+        if (isTransitioning) return;
+        isTransitioning = true;
+        currentSlide += 1;
+        if (slides[currentSlide].dataset.clone == 'last') {
+            scrollToIndex(currentSlide, true);
+            setTimeout(() => {
+                currentSlide = 1;
+                scrollToIndex(1, false);
+                isTransitioning = false;
+            }, transition_duration);
         } else {
-            clearInterval(autoScroll);
+            scrollToIndex(currentSlide, true);
+            setTimeout(() => {
+                isTransitioning = false;
+            }, transition_duration);
         }
+    }
+    function prevSlide() {
+        if (isTransitioning) return;
+        isTransitioning = true;
+        currentSlide -= 1;
+        if (slides[currentSlide].dataset.clone == 'first') {
+            scrollToIndex(currentSlide, true);
+            setTimeout(() => {
+                currentSlide = slidesLength;
+                scrollToIndex(slidesLength, false);
+                isTransitioning = false;
+            }, transition_duration);
+        } else {
+            scrollToIndex(currentSlide, true);
+            setTimeout(() => {
+                isTransitioning = false;
+            }, transition_duration);
+        }
+    }
+    nextBtn.addEventListener('click', nextSlide);
+    prevBtn.addEventListener('click', prevSlide);
+    let autoScroll;
+    const element = document.querySelector('#homepage-carousel');
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                autoScroll = setInterval(nextSlide, 4000);
+            } else {
+                clearInterval(autoScroll);
+            }
+        });
     });
-});
-
-observer.observe(element);
+    observer.observe(element);
 </script>
-</div>
-
-<div class="footer">
-    <div class="page-width">
-        <div class="footer-row">
-            <div class="footer-column">
-                <div class="footer-logo">
-                    <img src="footer-logo.png" width="100%">
-                </div>
-            </div>
-            <div class="footer-column">
-                <h3>Procedures</h3>
-                <a href="/">Septoplasty​</a>
-                <a href="/">Closed Rhinoplasty​</a>
-                <a href="/">Open Rhinoplasty​</a>
-                <a href="/">Revision Rhinoplasty</a>
-                <a href="/">Primary Closed Rhinoplasty</a>
-                <a href="/">Primary Open Rhinoplasty</a>
-                <a href="/">Functional and Aesthetic Rhinoplasty</a>
-                <a href="/">Revision Rhinoplasty</a>
-            </div>
-            <div class="footer-column">
-                <h3>About</h3>
-                <a href="/">Meet the Team</a>
-                <a href="/">Contact Form</a>
-                <a href="/">Locations</a>
-                <a href="/">FAQ</a>
-            </div>
-        </div>
-    </div>
-</div>
