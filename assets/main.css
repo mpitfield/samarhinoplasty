@@ -63,7 +63,7 @@ body {
 /* MARK: HEADER */
 .header {
     width: 100%;
-    background-color: var(--dark);
+    background: linear-gradient(var(--dark-blue-lighter), var(--dark-blue-darker));
     padding: 20px;
     height: 70px;
     min-height: 70px;
@@ -337,7 +337,7 @@ body {
 
 /* MARK: FOOTER */
 .footer {
-    background: linear-gradient(var(--dark-blue-lighter), var(--dark-blue-darker));
+    background-color: var(--dark);
     width: 100%;
     padding: 25px 0;
 }
