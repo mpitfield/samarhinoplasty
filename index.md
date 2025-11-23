@@ -33,6 +33,16 @@ title: Home
             </ul>
         </p>
         <div class="spacer-75"></div>
+        <div class="homepage-hospitals">
+            <div class="homepage-hospital">
+                <img src="park.jpg" width="100%">
+                <span>The Park Hospital</span>
+            </div>
+            <div class="homepage-hospital">
+                <img src="spire.jpg" width="100%">
+                <span>The Spire Hospital</span>
+            </div>
+        </div>
     </div>
     <div class="full-width homepage-comparison-pictures-container">
         <div class="page-width">
