@@ -335,6 +335,32 @@ body {
     align-items: center;
 }
 
+.homepage-hospitals {
+    display: flex;
+    gap: 50px;
+    align-items: flex-end;
+}
+
+.homepage-hospital {
+    width: 50%;
+    position: relative;
+}
+
+.homepage-hospital span {
+    width: 75%;
+    background-color: var(--dark-blue-lighter);
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    position: absolute;
+    display: block;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%, 0);
+    text-align: center;
+    box-shadow: 0 0 20px -7px #000000;
+}
+
 /* MARK: FOOTER */
 .footer {
     background-color: var(--dark);
