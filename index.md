@@ -8,7 +8,6 @@ title: Home
             <h1 class="homepage-banner-text-heading">SAMA RHINOPLASTY</h1>
             <h2 class="homepage-banner-text-subheading">Prof. Ansul Sama</h2>
             <img src="home-banner-theatre.jpg" width="100%" class="home-banner">
-            <img src="home-banner-sama.png" class="home-banner-over">
         </div>
         <h1 class="homepage-quote quote-text">
             <div class="page-width">
