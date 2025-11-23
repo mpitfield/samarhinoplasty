@@ -18,7 +18,7 @@ title: Home
     </div>
     <div class="page-width">
         <div class="spacer-50"></div>
-        <h2 class="page-subheading">The Nose you always wanted.</h2>
+        <h1 class="page-heading">The Nose you always wanted.</h1>
         <p class="page-text">
             Noses come in all shapes and sizes. In Rhinoplasty surgery, there is no “one size fits all”. It must be a “made to measure” procedure that successfully addresses your concerns, improves breathing and is in harmony with your facial features.
             <br><br>
@@ -33,8 +33,6 @@ title: Home
                 <li>Repair injuries to the nose</li>
             </ul>
         </p>
-        <div class="spacer-25"></div>
-        <div class="blue-line-small"></div>
         <div class="spacer-50"></div>
     </div>
     <div class="full-width homepage-comparison-pictures-container">
