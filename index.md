@@ -12,8 +12,6 @@ title: Home
         <h1 class="homepage-quote quote-text">
             <div class="page-width">
                 “A smile is happiness you will find right under your nose. Let’s find you a nose that puts a smile on your face”
-                <br><br>
-                <b>“The nose is the most defining characteristic of the face. Small alterations can enhance your self-esteem and confidence”</b>
             </div>
         </h1>
     </div>
@@ -36,15 +34,6 @@ title: Home
         </p>
         <div class="spacer-25"></div>
         <div class="blue-line-small"></div>
-        <div class="spacer-25"></div>
-        <h1 class="page-heading">Why Choose Prof. Sama as your Rhinoplasty Surgeon?</h1>
-        <p class="page-text">
-            <span class="grey-text">Prof. Sama is an accomplished Rhinoplasty surgeon with more than 25 years’ experience in both closed and open techniques.</span> He has dedicated his life to mastering the conditions of the nose and since 1999 has practiced solely and entirely in the field of nasal conditions and cosmetic rhinoplasty.
-            <br><br>
-            His unique approach is centred around understanding your main concerns, providing appropriate and adequate information to be able to guide you through this important journey. For each patient, he creates an individualised plan, bespoke for the needs of the individual and involves the patient in the decision making.
-            <br><br>
-            <span class="grey-text">As an accomplished surgeon, he has been an invited speaker to national and international courses and conferences across most continents and has run a premier course in Facial Aesthetic Surgery in Nottingham and held the post of the President of the British Facial Plastic society.</span>
-        </p>
         <div class="spacer-50"></div>
     </div>
     <div class="full-width homepage-comparison-pictures-container">
@@ -71,8 +60,8 @@ title: Home
                         <div class="after"><img src="4b.jpg" width="100%"></div>
                     </div>
                     <div class="comparison-row" name="slide5">
-                        <div class="before"><img src="5a.jpg" width="100%"></div>
-                        <div class="after"><img src="5b.jpg" width="100%"></div>
+                        <div class="before"><img src="5b.jpg" width="100%"></div>
+                        <div class="after"><img src="5a.jpg" width="100%"></div>
                     </div>
                 </div>
                 <button class="homepage-comparison-button next">
