@@ -32,7 +32,7 @@ title: Home
                 <li>Repair injuries to the nose</li>
             </ul>
         </p>
-        <div class="spacer-50"></div>
+        <div class="spacer-75"></div>
     </div>
     <div class="full-width homepage-comparison-pictures-container">
         <div class="page-width">
