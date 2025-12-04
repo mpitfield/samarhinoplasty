@@ -7,7 +7,7 @@ title: Home
         <div class="homepage-banner">
             <h1 class="homepage-banner-text-heading">SAMA RHINOPLASTY</h1>
             <h2 class="homepage-banner-text-subheading">Prof. Ansul Sama</h2>
-            <img src="/images/home-banner-theatre.jpg" width="100%" class="home-banner">
+            <img src="images/home-banner-theatre.jpg" width="100%" class="home-banner">
         </div>
         <h1 class="homepage-quote quote-text">
             <div class="page-width">
@@ -36,11 +36,11 @@ title: Home
         <h1 class="page-heading">Hospitals</h1>
         <div class="homepage-hospitals">
             <div class="homepage-hospital">
-                <img src="/images/park.jpg" width="100%">
+                <img src="images/park.jpg" width="100%">
                 <span>The Park Hospital</span>
             </div>
             <div class="homepage-hospital">
-                <img src="/images/spire.jfif" width="100%">
+                <img src="images/spire.jfif" width="100%">
                 <span>The Spire Hospital</span>
             </div>
         </div>
@@ -54,24 +54,24 @@ title: Home
                 </button>
                 <div class="homepage-comparison-pictures-inner" id="homepage-carousel">
                     <div class="comparison-row" name="slide1">
-                        <div class="before"><img src="/images/1a.jpg" width="100%"></div>
-                        <div class="after"><img src="/images/1b.jpg" width="100%"></div>
+                        <div class="before"><img src="images/1a.jpg" width="100%"></div>
+                        <div class="after"><img src="images/1b.jpg" width="100%"></div>
                     </div>
                     <div class="comparison-row" name="slide2">
-                        <div class="before"><img src="/images/2a.jpg" width="100%"></div>
-                        <div class="after"><img src="/images/2b.jpg" width="100%"></div>
+                        <div class="before"><img src="images/2a.jpg" width="100%"></div>
+                        <div class="after"><img src="images/2b.jpg" width="100%"></div>
                     </div>
                     <div class="comparison-row" name="slide3">
-                        <div class="before"><img src="/images/3a.jpg" width="100%"></div>
-                        <div class="after"><img src="/images/3b.jpg" width="100%"></div>
+                        <div class="before"><img src="images/3a.jpg" width="100%"></div>
+                        <div class="after"><img src="images/3b.jpg" width="100%"></div>
                     </div>
                     <div class="comparison-row" name="slide4">
-                        <div class="before"><img src="/images/4a.jpg" width="100%"></div>
-                        <div class="after"><img src="/images/4b.jpg" width="100%"></div>
+                        <div class="before"><img src="images/4a.jpg" width="100%"></div>
+                        <div class="after"><img src="images/4b.jpg" width="100%"></div>
                     </div>
                     <div class="comparison-row" name="slide5">
-                        <div class="before"><img src="/images/5b.jpg" width="100%"></div>
-                        <div class="after"><img src="/images/5a.jpg" width="100%"></div>
+                        <div class="before"><img src="images/5b.jpg" width="100%"></div>
+                        <div class="after"><img src="images/5a.jpg" width="100%"></div>
                     </div>
                 </div>
                 <button class="homepage-comparison-button next">
@@ -83,18 +83,18 @@ title: Home
     <div class="spacer-50"></div>
     <div class="page-width">
         <div class="homepage-logos">
-            <div class="homepage-logo"><img src="/images/BRS.png" width="100%"></div>
-            <div class="homepage-logo"><img src="/images/bsfps.png" width="100%"></div>
-            <div class="homepage-logo"><img src="/images/BSRS 2.jfif" width="100%"></div>
-            <div class="homepage-logo"><img src="/images/BSRS.jfif" width="100%"></div>
-            <div class="homepage-logo"><img src="/images/ENT UK 2.png" width="100%"></div>
-            <div class="homepage-logo"><img src="/images/ERS logo.png" width="100%"></div>
-            <div class="homepage-logo"><img src="/images/logo-eafps.png" width="100%"></div>
-            <div class="homepage-logo"><img src="/images/RCOS 1.png" width="100%"></div>
-            <div class="homepage-logo"><img src="/images/RCOS 2.png" width="100%"></div>
-            <div class="homepage-logo"><img src="/images/RCOS 3.png" width="100%"></div>
-            <div class="homepage-logo"><img src="/images/RCOS 4.png" width="100%"></div>
-            <div class="homepage-logo"><img src="/images/RSM.png" width="100%"></div>
+            <div class="homepage-logo"><img src="images/BRS.png" width="100%"></div>
+            <div class="homepage-logo"><img src="images/bsfps.png" width="100%"></div>
+            <div class="homepage-logo"><img src="images/BSRS 2.jfif" width="100%"></div>
+            <div class="homepage-logo"><img src="images/BSRS.jfif" width="100%"></div>
+            <div class="homepage-logo"><img src="images/ENT UK 2.png" width="100%"></div>
+            <div class="homepage-logo"><img src="images/ERS logo.png" width="100%"></div>
+            <div class="homepage-logo"><img src="images/logo-eafps.png" width="100%"></div>
+            <div class="homepage-logo"><img src="images/RCOS 1.png" width="100%"></div>
+            <div class="homepage-logo"><img src="images/RCOS 2.png" width="100%"></div>
+            <div class="homepage-logo"><img src="images/RCOS 3.png" width="100%"></div>
+            <div class="homepage-logo"><img src="images/RCOS 4.png" width="100%"></div>
+            <div class="homepage-logo"><img src="images/RSM.png" width="100%"></div>
         </div>
     </div>
     <div class="spacer-50"></div>
