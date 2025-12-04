@@ -50,7 +50,7 @@ title: Home
         <div class="page-width">
             <div class="homepage-comparison-pictures">
                 <button class="homepage-comparison-button prev">
-                    <img src="/icons/button-prev.png" width="100%">
+                    <img src="icons/button-prev.png" width="100%">
                 </button>
                 <div class="homepage-comparison-pictures-inner" id="homepage-carousel">
                     <div class="comparison-row" name="slide1">
@@ -75,7 +75,7 @@ title: Home
                     </div>
                 </div>
                 <button class="homepage-comparison-button next">
-                    <img src="/icons/button-next.png" width="100%">
+                    <img src="icons/button-next.png" width="100%">
                 </button>
             </div>
         </div>
