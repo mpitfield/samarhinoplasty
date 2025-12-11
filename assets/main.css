@@ -378,7 +378,7 @@ body {
     position: absolute;
     display: block;
     left: 50%;
-    bottom: 13px;
+    bottom: -13px;
     padding: 7px;
     transform: translate(-50%, 0);
     text-align: center;
