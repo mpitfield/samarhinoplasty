@@ -15,7 +15,7 @@ permalink: contact-form
                     <input type="text" placeholder="Subject" class="form-input">
                     <textarea placeholder="Message" class="form-input"></textarea>
                     <div class="spacer-50"></div>
-                    <input type="submit" value="SUBMIT" class="form-submit">
+                    <button type="submit" class="form-submit">SUBMIT</button>
                 </form>
             </div>
             <div class="width-50 contact-locations">
