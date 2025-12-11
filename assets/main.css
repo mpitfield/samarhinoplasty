@@ -9,6 +9,20 @@
 }
 
 /* MARK: GENERAL */
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}
+
+.page-heading {
+    margin-bottom: 20px;
+    font-size: 34px;
+}
+
+.page-subheading {
+    color: var(--dark-lighter);
+    font-size: 20px;
+}
+
 body {
     margin: 0;
     overflow-x: hidden;
@@ -75,6 +89,50 @@ body {
     margin: 0 auto;
     background-color: var(--dark-blue);
     border-radius: 2px;
+}
+
+.split-layout {
+    display: flex;
+    gap: 50px;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.form-input {
+    width: 100%;
+    border: 1px solid var(--dark-blue-lighter);
+    border-radius: 3px;
+    padding: 10px;
+    outline: none;
+    box-shadow: none;
+    transition: 0.3s ease;
+    font-family: "Poppins", sans-serif;
+}
+
+.form-input:focus {
+    border: 1px solid var(--dark);
+    box-shadow: inset 0 0 2px var(--dark-blue-lighter);
+}
+
+.form-submit {
+    width: fit-content;
+    padding: 10px 20px;
+    min-width: 200px;
+    border-radius: 5px;
+    border: 2px solid var(--dark-blue-darker);
+    background-color: var(--dark-blue-lighter);
+    color: white;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    box-shadow: inset 0 0 2px var(--dark-blue);
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.form-submit:hover {
+    box-shadow: inset 0 0 6px var(--dark-blue);
+    scale: 0.98;
 }
 
 /* MARK: HEADER */
@@ -444,4 +502,12 @@ body {
 .footer-column a:hover {
     color: rgb(201, 201, 201) !important;
     padding-left: 10px;
+}
+
+/* MARK: CONTACT FORM */
+.contact-us-form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
