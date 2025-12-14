@@ -13,12 +13,13 @@ permalink: photo-morphing
             <br>
             This allows you to 
             <ul>
-            <li>Visualise what changes can be made </li>
-            <li>Understanding of the realistic outcomes of surgery for you and your concerns</li>
-            <li>Understanding of how small sequence of changes results in a greater overall improvement</li>
-            <li>Involvement in the decision making of the changes to be considered</li>
-            <li>Understanding of the degree of change that can be made with different approaches and techniques- e.g., Open vs Closed Rhinoplasty in reduction of tip projection</li>
-            <li>Eliminate misconceptions acquired from social media and internet</li>
+                <li>Visualise what changes can be made </li>
+                <li>Understanding of the realistic outcomes of surgery for you and your concerns</li>
+                <li>Understanding of how small sequence of changes results in a greater overall improvement</li>
+                <li>Involvement in the decision making of the changes to be considered</li>
+                <li>Understanding of the degree of change that can be made with different approaches and techniques- e.g., Open vs Closed Rhinoplasty in reduction of tip projection</li>
+                <li>Eliminate misconceptions acquired from social media and internet</li>
+            <ul>
             <br>
             <br>
             These Morphed images are shared with you via email to give you adequate time for consideration and consultation with trusted family and friends. 
@@ -26,5 +27,6 @@ permalink: photo-morphing
             <br>
             Prof Sama will show you images of the morphed planned outcome and the final outcome of previous patients who have had surgery with him. This will give you a prospective on the degree of variation that may occur between the planned morphed images and the real surgical outcome.
         </p>
+        <div class="spacer-50"></div>
     </div>
 </div>
