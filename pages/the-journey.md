@@ -41,7 +41,7 @@ permalink: the-journey
                 <li>Review and mutual agreement on planned changes</li>
                 <li>Specific risks and complications discussed</li>
                 <li>Postoperative plan and care discussed</li>
-                <li>Potential dates for surgery 
+                <li>Potential dates for surgery</li>
             </ul>
             <br>
             <br>
