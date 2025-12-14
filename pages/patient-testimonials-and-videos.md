@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Patient Testimonials and Videos
-permalink: patient-testimonials-and-videos
+permalink: patient-testimonials
 ---
 
 <div class="patient-testimonials-and-videos">
