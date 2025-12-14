@@ -19,7 +19,7 @@ permalink: photo-morphing
                 <li>Involvement in the decision making of the changes to be considered</li>
                 <li>Understanding of the degree of change that can be made with different approaches and techniques- e.g., Open vs Closed Rhinoplasty in reduction of tip projection</li>
                 <li>Eliminate misconceptions acquired from social media and internet</li>
-            <ul>
+            </ul>
             <br>
             <br>
             These Morphed images are shared with you via email to give you adequate time for consideration and consultation with trusted family and friends. 
