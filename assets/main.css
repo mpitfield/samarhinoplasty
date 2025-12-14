@@ -4,6 +4,7 @@
     --dark-lighter: #2f2f2f;
     --grey-quote: #858585;
     --dark-blue: #004f64;
+    --dark-blue-opaque: #004f64d6;
     --dark-blue-lighter: #00627D;
     --dark-blue-darker: #004558;
 }
@@ -512,4 +513,19 @@ body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+}
+
+/* MARK: TESTIMONIALS */
+.testimonials-grid {
+    margin: 40px 0;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 25px;
+}
+
+.testimonials-grid p {
+    display: block;
+    background-color: var(--dark-blue-opaque);
+    padding: 10px 15px;
+    border-radius: 6px;
 }
