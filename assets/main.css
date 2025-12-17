@@ -549,7 +549,7 @@ body {
     border-radius: 5px;
 }
 
-.meet-team-side-col p {
+.meet-team-side-col p, .meet-team-side-col ul, .meet-team-side-col li {
     font-size: 12px;
 }
 
