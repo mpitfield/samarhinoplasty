@@ -22,9 +22,8 @@ permalink: procedures
                 <li>Improve nasal breathing</li>
             </ul>
         </p>
-        <br><br><br>
+        <br><br>
         <h4>Functional Nasal surgery : Septorhinoplasty</h4>
-        <br>
         <p>
             Some individuals will seek surgery because they have both functional (difficulty breathing through the nose) and aesthetic aspirations. There is limited benefit in having surgery to have an attractive looking nose if it doesn’t function well! Nasal aesthetics and breathing are both an equally important part of any Rhinoplasty procedure.   
             <br><br>
@@ -36,13 +35,13 @@ permalink: procedures
             <br><br>
             Nasal bone fractures and deviations: Previous nasal injuries can result in change in the alignment and positioning of the nasal bones that can compromise nasal breathing
         </p>
-        <br><br>
+        <br>
         <p>
             To achieve these changes, there are classically two approaches: Closed and Open Rhinoplasty 
             <br><br>
             Closed or Open Rhinoplasty are not different “operations”. They are simply the most suitable approach (access) used to deliver on the changes required. Prof Sama uses both Closed and Open approaches.  
             <br><br>
-            Closed Rhinoplasty: 
+            <b>Closed Rhinoplasty:</b> 
             <ul>
                 <li>All incision made inside the nose</li>
                 <li>Less invasive and the skin structure over the nose is better protected</li>
@@ -56,8 +55,8 @@ permalink: procedures
                     <li>Improve breathing by correcting septum and/or turbinates</li>
                 </ul>
             </ul>
-            <br><br>
-            Open Rhinoplasty
+            <br>
+            <b>Open Rhinoplasty</b>
             <ul>
                 <li>Involves a cut between the nostrils of the nose</li>
                 <li>More traumatic in the long term for the skin envelope</li>
@@ -70,8 +69,8 @@ permalink: procedures
                     <li>Revision surgery</li> 
                 </ul>
             </ul>
-            <br><br>
-            Revision Rhinoplasty 
+            <br>
+            <b>Revision Rhinoplasty</b>
             <ul>
                 <li>May require an open or closed approach </li>
                 <li>Key is to address the residual abnormalities or deformity resultant from previous surgery </li>
