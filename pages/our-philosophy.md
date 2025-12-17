@@ -18,7 +18,7 @@ permalink: our-philosophy
             A successful Rhinoplasty is when nobody realises that you have had an operation, i.e., the nose no longer becomes the focus of the face!
             <br>
             Prof Sama is an accomplished Rhinoplasty surgeon with over 25 years’ experience in both closed and open techniques. His aim is to inform and support you through this journey and get you as close to your aspirations as possible.
-            <br>
+            <br><br>
             <b>Our philosophy and aim:</b>
             <ul>
                 <li>Natural looking nose in harmony with the face</li>
