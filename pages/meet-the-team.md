@@ -24,28 +24,24 @@ permalink: meet-the-team
             </div>
             <div class="meet-team-side-col">
                 <h2>Qualifications</h2>
-                <p>
-                    <ul>
-                        <li>BMedSci</li>
-                        <li>BM BS</li>
-                        <li>FRCS (Gen. Surg)</li>
-                        <li>FRCS (ORL-HNS)</li>
-                        <li>MMedSci</li>
-                    </ul>
-                </p>
+                <ul>
+                    <li>BMedSci</li>
+                    <li>BM BS</li>
+                    <li>FRCS (Gen. Surg)</li>
+                    <li>FRCS (ORL-HNS)</li>
+                    <li>MMedSci</li>
+                </ul>
                 <br>
                 <h2>Professional Associations</h2>
-                <p>
-                    <ul>
-                        <li>British Society of Rhinoplasty Surgeons</li>
-                        <li>British Society of Facial Plastic Surgery</li>
-                        <li>European Academy of Facial Plastic Surgery</li>
-                        <li>British Rhinology Society</li>
-                        <li>European Rhinology Society</li>
-                        <li>ENT UK</li>
-                        <li>Royal College of Surgeons of England</li>
-                    </ul>
-                </p>
+                <ul>
+                    <li>British Society of Rhinoplasty Surgeons</li>
+                    <li>British Society of Facial Plastic Surgery</li>
+                    <li>European Academy of Facial Plastic Surgery</li>
+                    <li>British Rhinology Society</li>
+                    <li>European Rhinology Society</li>
+                    <li>ENT UK</li>
+                    <li>Royal College of Surgeons of England</li>
+                </ul>
             </div>
         </div>
         <div class="spacer-50"></div>
