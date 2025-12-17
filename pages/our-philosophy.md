@@ -5,13 +5,13 @@ permalink: our-philosophy
 ---
 
 <div class="our-philosophy">
-    <div class="page-width">
-        <h1 class="page-title">Our Philosophy</h1>
-    </div>
     <div class="full-width">
         <h1 class="homepage-quote quote-text">
             “Natural looking nose in harmony with the face”
         </h1>
+    </div>
+    <div class="page-width">
+        <h1 class="page-title">Our Philosophy</h1>
     </div>
     <div class="page-width">
         <p>
