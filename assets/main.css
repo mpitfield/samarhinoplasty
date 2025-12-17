@@ -184,15 +184,17 @@ body {
     position: relative;
 }
 
-.header-menu-item span {
+.header-menu-item span, .header-menu-item-link  {
     display: block;
     width: 100%;
     text-align: center;
     font-size: 18px;
+    color: white !important;
+    text-decoration: none !important;
 }
 
 @media (max-width: 1500px) {
-    .header-menu-item span, .header-menu-dropdown-content-item {
+    .header-menu-item span, .header-menu-dropdown-content-item, .header-menu-item-link {
         font-size: 13px !important;
     }
 }
