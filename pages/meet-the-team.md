@@ -25,21 +25,21 @@ permalink: meet-the-team
             <div class="meet-team-side-col">
                 <h2>Qualifications</h2>
                 <p>
-                    BMedSci,
-                    BM BS,
-                    FRCS (Gen. Surg),
-                    FRCS (ORL-HNS),
+                    BMedSci,<br>
+                    BM BS,<br>
+                    FRCS (Gen. Surg),<br>
+                    FRCS (ORL-HNS),<br>
                     MMedSci
                 </p>
                 <br>
                 <h2>Professional Associations</h2>
                 <p>
-                    British Society of Rhinoplasty Surgeons
-                    British Society of Facial Plastic Surgery
-                    European Academy of Facial Plastic Surgery
-                    British Rhinology Society
-                    European Rhinology Society
-                    ENT UK
+                    British Society of Rhinoplasty Surgeons<br>
+                    British Society of Facial Plastic Surgery<br>
+                    European Academy of Facial Plastic Surgery<br>
+                    British Rhinology Society<br>
+                    European Rhinology Society<br>
+                    ENT UK<br>
                     Royal College of Surgeons of England
                 </p>
             </div>
