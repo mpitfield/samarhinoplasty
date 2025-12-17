@@ -531,3 +531,24 @@ body {
     padding: 10px 15px;
     border-radius: 6px;
 }
+
+/* MARK: MEET THE TEAM */
+.meet-team-row {
+    display: flex;
+    width: 100%;
+    align-items: flex-start;
+    gap: 50px;
+}
+
+.meet-team-side-col {
+    min-width: 330px;
+    max-width: 330px;
+    background-color: var(--dark-blue-lighter);
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.meet-team-side-col p {
+    font-size: 12px;
+}

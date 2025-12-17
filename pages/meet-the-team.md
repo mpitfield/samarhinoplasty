@@ -45,26 +45,34 @@ permalink: meet-the-team
             </div>
         </div>
         <div class="spacer-50"></div>
-        <div class="meet-team-row">
-            <h2>Dr Munib Mallik</h2>
-            <p>
-                <span class="meet-team-name-subtitle">B MedSci, MB ChB, FRCA</span>
-                <br><br>
-                Dr Mallik is a consultant anaesthetist at Nottingham University Hospital NHS Trust and the Lead Anaesthetist for Thoracic Surgery. He is a graduate of University of Edinburgh, trained in the East Midlands and took up his consultant Anaesthetist post at Nottingham in 2006. He has wide experience in anaesthetising for complex chest surgery and Intensive care management, and has also specialist interests in ENT, Bariatrics, Upper GI, Gynaecology and Cosmetic Surgery.
-            </p>
-        </div>
+        <div class="blue-line-small"></div>
         <div class="spacer-50"></div>
         <div class="meet-team-row">
-            <h2>Dr.Lakshmipathy Purushothaman</h2>
-            <p>
-                <span class="meet-team-name-subtitle">MBBS, MD Anaesthesia, FRCA, EDRA</span>
-                <br><br>
-                Dr.Lakshmipathy Purushothaman (Fondly known as Dr Lakshmi) is a consultant anaesthetist at Nottingham University Hospital NHS Trust. He is the anaesthetic lead for major trauma and trauma orthopaedics in NUH NHS Trust- the Regional Trauma centre. He has over 20 years’ experience in anaesthesia with a specialist interest is trauma orthopaedics, day case anaesthesia, ENT, Hepatobiliary, gynaecology and regional anaesthesia.
-                <br><br>
-                Dr.Lakshmi graduated in 2001 from Stanley Medical Collage and completed his MD anaesthesia from Madras Medical Collage in 2005 in India. He subsequently trained at James Cook University Hospital, University Hospital Birmingham and Nottingham University Hospital, culminating in a Fellowship in Regional Anaesthesia at Queens Medical Centre and European Diploma in Regional Anaesthesia (EDRA) in 2012. He has innovated several new regional anaesthesia techniques and regularly organizes and teaches on major trauma and ultrasound guided regional anaesthesia courses.
-                <br><br>
-                He takes pride in “safety first” approach and considers patients comfort post-surgery as major priority.
-            </p>
+            <div>
+                <h2>Dr Munib Mallik</h2>
+                <p>
+                    <span class="meet-team-name-subtitle">B MedSci, MB ChB, FRCA</span>
+                    <br><br>
+                    Dr Mallik is a consultant anaesthetist at Nottingham University Hospital NHS Trust and the Lead Anaesthetist for Thoracic Surgery. He is a graduate of University of Edinburgh, trained in the East Midlands and took up his consultant Anaesthetist post at Nottingham in 2006. He has wide experience in anaesthetising for complex chest surgery and Intensive care management, and has also specialist interests in ENT, Bariatrics, Upper GI, Gynaecology and Cosmetic Surgery.
+                </p>
+            </div>
+        </div>
+        <div class="spacer-50"></div>
+        <div class="blue-line-small"></div>
+        <div class="spacer-50"></div>
+        <div class="meet-team-row">
+            <div>
+                <h2>Dr.Lakshmipathy Purushothaman</h2>
+                <p>
+                    <span class="meet-team-name-subtitle">MBBS, MD Anaesthesia, FRCA, EDRA</span>
+                    <br><br>
+                    Dr.Lakshmipathy Purushothaman (Fondly known as Dr Lakshmi) is a consultant anaesthetist at Nottingham University Hospital NHS Trust. He is the anaesthetic lead for major trauma and trauma orthopaedics in NUH NHS Trust- the Regional Trauma centre. He has over 20 years’ experience in anaesthesia with a specialist interest is trauma orthopaedics, day case anaesthesia, ENT, Hepatobiliary, gynaecology and regional anaesthesia.
+                    <br><br>
+                    Dr.Lakshmi graduated in 2001 from Stanley Medical Collage and completed his MD anaesthesia from Madras Medical Collage in 2005 in India. He subsequently trained at James Cook University Hospital, University Hospital Birmingham and Nottingham University Hospital, culminating in a Fellowship in Regional Anaesthesia at Queens Medical Centre and European Diploma in Regional Anaesthesia (EDRA) in 2012. He has innovated several new regional anaesthesia techniques and regularly organizes and teaches on major trauma and ultrasound guided regional anaesthesia courses.
+                    <br><br>
+                    He takes pride in “safety first” approach and considers patients comfort post-surgery as major priority.
+                </p>
+            </div>
         </div>
         <div class="spacer-50"></div>
     </div>
