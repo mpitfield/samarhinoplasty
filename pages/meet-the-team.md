@@ -9,7 +9,7 @@ permalink: meet-the-team
         <h1 class="page-title">Meet the Team</h1>
         <div class="meet-team-row">
             <div class="meet-team-detail-col">
-                <h3>Prof Anshul Sama</h3>
+                <h2>Prof Anshul Sama</h2>
                 <p>
                     <span class="meet-team-name-subtitle">BMedSci, BM BS, FRCS (Gen. Surg), FRCS (ORL), MMedSci</span>
                     <br><br>
@@ -23,7 +23,7 @@ permalink: meet-the-team
                 </p>
             </div>
             <div class="meet-team-side-col">
-                <h3>Qualifications</h3>
+                <h2>Qualifications</h2>
                 <p>
                     BMedSci,
                     BM BS,
@@ -32,7 +32,7 @@ permalink: meet-the-team
                     MMedSci
                 </p>
                 <br>
-                <h3>Professional Associations</h3>
+                <h2>Professional Associations</h2>
                 <p>
                     British Society of Rhinoplasty Surgeons
                     British Society of Facial Plastic Surgery
@@ -46,7 +46,7 @@ permalink: meet-the-team
         </div>
         <div class="spacer-50"></div>
         <div class="meet-team-row">
-            <h3>Dr Munib Mallik</h3>
+            <h2>Dr Munib Mallik</h2>
             <p>
                 <span class="meet-team-name-subtitle">B MedSci, MB ChB, FRCA</span>
                 <br><br>
@@ -55,7 +55,7 @@ permalink: meet-the-team
         </div>
         <div class="spacer-50"></div>
         <div class="meet-team-row">
-            <h3>Dr.Lakshmipathy Purushothaman</h3>
+            <h2>Dr.Lakshmipathy Purushothaman</h2>
             <p>
                 <span class="meet-team-name-subtitle">MBBS, MD Anaesthesia, FRCA, EDRA</span>
                 <br><br>
