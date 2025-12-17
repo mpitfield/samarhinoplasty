@@ -552,3 +552,7 @@ body {
 .meet-team-side-col p {
     font-size: 12px;
 }
+
+.meet-team-name-subtitle {
+    color: var(--dark-blue-lighter);
+}
